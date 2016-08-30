@@ -1,2 +1,2 @@
 <?php
-echo "st123ng";
+echo "st安生点123ng";
