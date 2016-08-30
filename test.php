@@ -1,1 +1,2 @@
-按时打算打算
+<?php
+echo "string";
